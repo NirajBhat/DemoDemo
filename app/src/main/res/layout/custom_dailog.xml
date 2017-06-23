@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingRight="40dp"
+    android:paddingLeft="40dp"
+    android:paddingTop="40dp"
+    android:paddingBottom="40dp">
+
+  <!--  <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/subject_image"/>
+-->
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_info_subjects"
+        android:text="A"
+
+        android:textSize="35sp"
+        android:layout_centerHorizontal="true"
+        />
+
+   <!-- <View android:id="@+id/titleDivider"
+        android:layout_width="match_parent"
+        android:layout_height="2dip"
+        android:layout_below="@id/txt_date_reason"
+        android:layout_marginTop="10dp"
+        android:background="#878686" />
+-->
+    <!--<TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:id="@+id/txt_reason"
+        android:layout_marginLeft="50dp"
+       />
+
+    <TextView
+        android:id="@+id/edit_reason"
+        android:layout_marginRight="10dp"
+        android:layout_width="285dp"
+        android:layout_height="80dp"
+        android:paddingLeft="20dp"
+        android:background="@drawable/rectangle"
+        android:layout_below="@+id/txt_reason"
+         />-->
+
+
+</RelativeLayout>

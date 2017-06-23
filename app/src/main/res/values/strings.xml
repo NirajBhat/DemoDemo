@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Next Tools</string>
+
+    <string name="Maths">Maths</string>
+    <string name="Chemistry">Chemistry</string>
+    <string name="Social">Social</string>
+    <string name="English">English</string>
+    <string name="Primary">Primary</string>
+</resources>
